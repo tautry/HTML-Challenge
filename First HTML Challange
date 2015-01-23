@@ -1,0 +1,52 @@
+<html>
+<head>
+   <title>Terrence Autry</title>
+   </head>
+   <body>
+   <h1>Terrence Autry</h1>
+   <h1>Senior</h1>
+   <h2>Computer Information Systems</h2>
+   <h3>Background</h3>
+   <p>My name is Terrence Autry and I am a graduating senior, computer information systems major from Dallas, Texas.  I plan on working at IBM as an entry-level consultant working in managment conuslting.  Some of my long-term goals are to become an entreprenuer and to become a certified personal trainer.</h3>
+   <p>Some of my hobbies include sports, hanging with friends/family, and eating!  I love to work out, I am always doing something sports related.  Additionaly, I am always hanging with my college friends.
+   <h3>Career Aspirations</h3>
+   <table class="table table-bordered">
+   	<thead>
+   		<tr>
+   			<th>Name</th>
+   			<th>Industry</th>
+   			<th>Location</th>
+
+   		</tr>
+
+   	</thead>
+   	<tbody>
+   		<tr>
+   			<td>IBM</td>
+   			<td>Consulting</td>
+   			<td>DC</td>
+   		</tr>
+   		<tr>
+   		<td>Google </td>
+   			<td>Technology/td>
+   			<td>NYC</td>
+   			
+   		</tr>
+   		<tr>
+   			<td>LA Lakers</td>
+   			<td>Technology</td>
+   			<td>LA</td>
+   			
+   		</tr>
+
+   	</tbody>
+   </table>
+   <h3>Education</h3>
+   <o1> 
+   <li>Fellowship Christian Academy</li>
+   <li>Smith Academy</li>
+   <li>Trinity Christian School</li>
+   <li>Howard University</li>
+   </o1>
+
+   </html>
